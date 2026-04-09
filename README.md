@@ -1,2 +1,0 @@
-# WxzAI
-wuxianzhiAI
